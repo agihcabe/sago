@@ -1,0 +1,6 @@
+{
+  "name": "Generator Administrasi Guru Kurikulum Merdeka",
+  "description": "Aplikasi berbasis web untuk generate dokumen administrasi guru secara otomatis (CP, ATP, Prota, Promes, KKTP, RPM) berdasarkan Keputusan Kepala BSKAP No 046/H/KR/2025 dan BKPDM No 020 Tahun 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
